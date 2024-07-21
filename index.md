@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![profile](D:\Zhiqi-Sun.github.io\profile.JPG)
+![](<img src="https://zhiqi-sun.github,io/profile.jpg"class="floatpic" width="360" height="480">)
 
 Here is Zhiqi Sun(孙之棋):
 
