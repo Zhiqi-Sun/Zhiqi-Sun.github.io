@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+![profile](D:\Zhiqi-Sun.github.io\profile.JPG)
 
-Here is Zhiqi Sun(孙之棋)
+Here is Zhiqi Sun(孙之棋):
 
 I was admitted to School of Gifted Young, USTC at fall 2022. I found myself interested in mathematics. In my first year of undergraduate, I joined the Hua Loo-Keng Talent Program in Mathematics. And I focused more on the learning in algebra.
 
