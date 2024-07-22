@@ -34,7 +34,6 @@ Learning experience in mathematics
   * Topology(H)(4 credits): 98(A+)
   * Mathematical Analysis A3(4 credits): 98(A+)
   * Commutative Algebra(4 credits): 100(A+)
-  * 
   
 * Summer 2023: 
 
@@ -56,3 +55,7 @@ Learning experience in mathematics
   * Mathematical Analysis A1(6 credits): 92(A)
   * Foundations of Geometry(3 credits): 88(A-)
   *  Foundation of Algebra(3 credits): 96(A+)
+
+# Prizes and scholarships
+
+* Need to update.

@@ -6,7 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-    
+  - title: "Resources"
+    url: /Resources/
   - title: "Blog Posts"
     url: /year-archive/
     
