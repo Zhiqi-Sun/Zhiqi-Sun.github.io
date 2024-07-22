@@ -37,9 +37,7 @@ Learning experience in mathematics
   
 * Summer 2023: 
 
-  I joined "Algebra and Number Theory" summer school at the University of Chinese Academy of Sciences. I have learned about 
-
-  the basic acknowledges of algebraic geometry,  algebraic number theory, and representation theory here.
+  I joined "Algebra and Number Theory" summer school at the University of Chinese Academy of Sciences. I have learned about the basic acknowledges of algebraic geometry,  algebraic number theory, and representation theory here.
 
 * Spring 2023:
 
