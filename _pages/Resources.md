@@ -5,12 +5,6 @@ permalink: /Resources/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Hand-written notes of Topology(H)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Download](zhiqi-sunn.github.io/files/Topology(H).pdf)
