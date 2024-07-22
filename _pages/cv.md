@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics: University of Science and Technology of China(2022.9-2026.6) (Expected)
 
-Work experience
+Learning experience in mathematics
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024:
+  
+  I'm joining "Algebra and Number Theory" summer school at the Peking University. (About the summer school, see http://antss.amss.ac.cn/ ) 
+  
+* Spring 2024: 
+  
+  * Probability Theory(3 credits): 99(A+)
+  * Lie algebras and their representations(4 credits): 99(A+)
+  * Algebraic Number Theory(4 credits): 100(A+)
+  * Probability Theory-Outer Chapter(1 credit): 92(A)
+  * Complex Variable(H)(4 credits): 90(A)
+  
+* Fall 2023:
+  * Introduction to Differential Equations(4 credits): 99(A+)
+  * Introduction to Algebraic Geometry(4 credits): 100(A+)
+  * Linear Algebra A2(4 credits): 98(A+)
+  * Topology(H)(4 credits): 98(A+)
+  * Mathematical Analysis A3(4 credits): 98(A+)
+  * Commutative Algebra(4 credits): 100(A+)
+  * 
+  
+* Summer 2023: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  I joined "Algebra and Number Theory" summer school at the University of Chinese Academy of Sciences. I have learned about 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  the basic acknowledges of algebraic geometry,  algebraic number theory, and representation theory here.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spring 2023:
+
+  I became interested in algebra this term.
+
+  * Mathematical Analysis A2(6 credits): 92(A)
+  * Modern Algebra(H)(4 credits): 98(A+)
+  * Linear Algebra A1(5 credits): 95(A+)
+  * Real Analysis(H)(4 credits): 98(A+)
+
+* Fall 2022:
+
+  * Mathematical Analysis A1(6 credits): 92(A)
+  * Foundations of Geometry(3 credits): 88(A-)
+  *  Foundation of Algebra(3 credits): 96(A+)
