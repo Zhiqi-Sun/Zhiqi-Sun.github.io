@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiqi Sun"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhiqi Sun"
 description              : &description "personal description"
